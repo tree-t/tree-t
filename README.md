@@ -1,2 +1,2 @@
 - 👋 Hello, I’m @tree-t
-- 🌱 I’m currently learning java and python
+- 🌱 I’m currently learning JAVA
